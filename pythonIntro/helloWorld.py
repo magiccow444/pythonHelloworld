@@ -671,20 +671,20 @@
 # Testing a class: ----------------------------------------------------------------------------------
 
 # class AnonymousSurvey:
-#     def __init__(self, question):
-#         self.question = question
-#         self.responses = []
+    # def __init__(self, question):
+    #     self.question = question
+    #     self.responses = []
     
-#     def showQuestions(self):
-#         print(self.quesiton)
+    # def showQuestions(self):
+    #     print(self.quesiton)
 
-#     def storeResponse(self, newResponse):
-#         self.responses.append(newResponse)
+    # def storeResponse(self, newResponse):
+    #     self.responses.append(newResponse)
 
-#     def showResults(self):
-#         print("Survey results:")
-#         for response in self.responses:
-#             print(f"- {response}")
+    # def showResults(self):
+    #     print("Survey results:")
+    #     for response in self.responses:
+    #         print(f"- {response}")
 
 
 
